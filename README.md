@@ -11,4 +11,12 @@ This is inspired by:
 If you need to install GoogleTest follow this:
 - https://github.com/google/googletest/blob/main/googletest/README.md
 
-Author: Rainer Spitzhirn
+To setup and build the current repository do:
+```
+git clone https://github.com/rainersp/googletest-cmake-example &&
+mkdir build &&
+cd build &&
+cmake ../googletest-cmake-example &&
+cmake --build . &&
+ctest
+```
