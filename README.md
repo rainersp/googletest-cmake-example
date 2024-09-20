@@ -1,4 +1,4 @@
-# gtest-cmake-example
+# googletest-cmake-example
 This is an example for creating a C++ library using GoogleTest framework with CMake:
 - C++ 14 for googletest framework
 - CMake 3.13
